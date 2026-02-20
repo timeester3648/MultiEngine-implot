@@ -47,6 +47,7 @@
 
 #pragma once
 #include "imgui.h"
+#include "implotconfig.h"
 #ifndef IMGUI_DISABLE
 
 //-----------------------------------------------------------------------------
